@@ -1,8 +1,8 @@
 # Computer Systems Engineer
 
-### Interested in cybersecurity and any other IT related fields
+## Jack of all trades and master of all
 
-### Currently QA Automation engineer
+## Currently building the future of security, and also doing QA as the day job
 
 <!--
 **antoniosolismz/antoniosolismz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
