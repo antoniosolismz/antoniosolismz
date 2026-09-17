@@ -1,9 +1,5 @@
 # Computer Systems Engineer
 
-## Jack of all trades and master of all
-
-## Currently building the future of security, and also doing QA as the day job
-
 <!--
 **antoniosolismz/antoniosolismz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Antoniosolismz's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniosolismz)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniosolismz&theme=radical&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
